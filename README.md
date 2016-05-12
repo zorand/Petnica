@@ -1,4 +1,6 @@
-###This is readme for 3dsimul
+### 3dsimul, Summer 1991.
+
+This is readme for 3dsimul
 
 This program was developed in 7 days no sleep environment, mostly between
 swimming, basketball, playing games, exploring the great mud cave, great
