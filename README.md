@@ -1,4 +1,4 @@
-### 3dsimul, Summer 1991.
+### 3dsimul, Summer 1991:
 
 This is readme for 3dsimul
 
